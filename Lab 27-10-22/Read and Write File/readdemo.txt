@@ -1,0 +1,3 @@
+Employee ID: 100
+Employee Name: raj kapoor
+Employee Salary: 1000000
